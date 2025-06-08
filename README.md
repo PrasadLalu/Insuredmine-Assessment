@@ -18,3 +18,14 @@ Check sample.env file for reference.
 ```
 npm run dev
 ```
+
+# CPU Monitor:
+```
+Created startCpuMonitoring() in the server.js file.
+```
+
+# API Documentation:
+```
+Check API.md file:
+/Docs/API.md
+``` 
